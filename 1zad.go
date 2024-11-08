@@ -14,7 +14,6 @@ func des(n, y int) string {
 	}
 	return a
 }
-
 func vdes(n, x int) int {
 	var a int = 0
 	var i int = 0
@@ -40,3 +39,5 @@ func main() {
 		fmt.Print(vdes(n, x))
 	}
 }
+
+//jenfrcue3wjcjweicw
